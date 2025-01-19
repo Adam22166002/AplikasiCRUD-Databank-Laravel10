@@ -52,7 +52,7 @@ Sebelum memulai, pastikan Anda memiliki:
    git clone https://github.com/Adam22166002/AplikasiCRUD-Databank-Laravel10.git
 2. Masuk ke projek :
 ```
-cd smp-2-tegal
+cd aplikasicrud-databank-laravel10-main
 ```
 
 3. Install semua dependency :
